@@ -39,6 +39,10 @@ struct ContentView: View {
                 }
             }
             Text("Select an item!")
+            Text("Select an item!")
+            Text("Select an item!")
+            Text("Select an item!")
+            Text("Select an item!")
         }
     }
 
